@@ -1,0 +1,31 @@
+body{
+
+
+    background-color: rgba(228, 228, 220, 0.55);
+
+}
+
+h1 {
+    text-align:center; font-family: 'Lobster', cursive; font-size: 65px;
+}
+
+h2 {
+    text-align:center; font-family: 'Yanone Kaffeesatz', sans-serif; font-size: 40px;
+}
+
+h3{
+    text-align:center;text-decoration: underline; font-family: 'Abril Fatface', cursive; font-size: 45px;
+}
+h4{
+    text-align:center;font-family: 'Roboto', sans-serif; font-size: 22px; text-decoration: none
+}
+
+.convenience-links {
+    text-decoration: none;
+    text-align: center;
+    font-weight: 500;
+}
+
+p {
+    text-align:left; font-family: 'Sahitya', serif; font-size: 20px;
+}
